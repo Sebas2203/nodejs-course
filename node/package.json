@@ -1,0 +1,23 @@
+{
+  "name": "firstproyect",
+  "version": "0.0.1",
+  "description": "Este es mi primer proyecto",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sebas2203/nodejs-course.git"
+  },
+  "keywords": [
+    "first",
+    "proyect"
+  ],
+  "author": "sebas_2203",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sebas2203/nodejs-course/issues"
+  },
+  "homepage": "https://github.com/Sebas2203/nodejs-course#readme"
+}
