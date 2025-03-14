@@ -11,3 +11,7 @@ npm i nodemon -D (modulo de dependencia de desarrollo)
 ### npx
 
 npx (module) (parametro)
+
+## Donde subir los proyectos de Node JS
+
+### Heroku
